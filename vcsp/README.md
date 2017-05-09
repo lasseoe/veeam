@@ -6,8 +6,8 @@ Various tools and files to make working with Veeam a little easier.
 ## Requirements
 
 - Ruby
--- gem: Nokogiri
--- gem: Unirest
+  - gem: Nokogiri
+  - gem: Unirest
 
 ## Howto
 
